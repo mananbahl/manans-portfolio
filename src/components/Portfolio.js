@@ -104,7 +104,7 @@ const Portfolio = () => {
       name="portfolio"
       className="bg-gradient-to-b from-black via-gray-800 to to-black  w-full text-white md:h-screen"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full md:h-screen mb-12 py-12">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full md:h-screen  py-12">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Portfolio
