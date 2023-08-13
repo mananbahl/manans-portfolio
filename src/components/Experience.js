@@ -1,5 +1,4 @@
 import React from "react";
-import spiderman from "../assets/portfolio/spiderman.png";
 import c_lang_logo from "../assets/C_Logo.png";
 import cpp_logo from "../assets/cpp_logo.png";
 import html_logo from "../assets/html_logo.png";
