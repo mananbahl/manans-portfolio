@@ -33,7 +33,7 @@ const Experience = () => {
       id: 1,
       src: c_lang_logo,
       title: "C",
-      style: "blue",
+      style: "shadow-blue-500",
     },
     {
       id: 2,
